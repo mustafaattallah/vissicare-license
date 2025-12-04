@@ -3,5 +3,10 @@
     "label": "CLIENT 10",
     "valid_days": 365,
     "revoked": false
+  },
+  "05e2c6ca11b0db95ced885949987cc08632d8958fa3c7d081bcd43d64792987d": {
+    "label": "CLIENT 11",
+    "valid_days": 30,
+    "revoked": false
   }
 }

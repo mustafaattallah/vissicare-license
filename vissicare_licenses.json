@@ -13,6 +13,11 @@
     "label": "Client X",
     "valid_days": 100,
     "revoked": false
+  },
+    "c81fc1d579566bec03bdde0353d76c5983df9e0c457048bd631eedeffa3bda07": {
+    "label": "Anh",
+    "valid_days": 10,
+    "revoked": false
   }
 }
 

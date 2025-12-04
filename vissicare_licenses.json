@@ -8,6 +8,11 @@
     "label": "TEST ONLINE",
     "valid_days": 365,
     "revoked": false
+  },
+  "2511177cbfaff0606e7271e6029abf15614663c91bfb43d1139f48f01586d91e": {
+    "label": "Client X",
+    "valid_days": 100,
+    "revoked": false
   }
 }
 

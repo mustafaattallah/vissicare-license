@@ -4,9 +4,10 @@
     "valid_days": 365,
     "revoked": false
   },
-  "b0e0ef0e0bb0e96c998ba25ad690e6fd8473582f8aac907986db363e56765e48": {
-    "label": "CLIENT 11",
-    "valid_days": 30,
+  "6dacf97ce38dd0932b8c5e820c6c4eba6381f10e4cc1a9ef7251f434f6d59eb3": {
+    "label": "TEST ONLINE",
+    "valid_days": 365,
     "revoked": false
   }
 }
+
